@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 34e8311297a2b454fb64cb78c9f4a8ab
+timeCreated: 1525213250
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box001
+    100002: CATRigHub001
+    100004: CATRigHub001Gizmo
+    100006: CATRigHub002
+    100008: CATRigHub002Gizmo
+    100010: CATRigHub003
+    100012: CATRigHub003Gizmo
+    100014: CATRigLArm1
+    100016: CATRigLArm1Gizmo
+    100018: CATRigLArm2
+    100020: CATRigLArm2Gizmo
+    100022: CATRigLArmCollarbone
+    100024: CATRigLArmDigit11
+    100026: CATRigLArmDigit11Gizmo
+    100028: CATRigLArmDigit12
+    100030: CATRigLArmDigit12Gizmo
+    100032: CATRigLArmDigit13
+    100034: CATRigLArmDigit13Gizmo
+    100036: CATRigLArmDigit21
+    100038: CATRigLArmDigit21Gizmo
+    100040: CATRigLArmDigit22
+    100042: CATRigLArmDigit22Gizmo
+    100044: CATRigLArmDigit23
+    100046: CATRigLArmDigit23Gizmo
+    100048: CATRigLArmDigit31
+    100050: CATRigLArmDigit31Gizmo
+    100052: CATRigLArmDigit32
+    100054: CATRigLArmDigit32Gizmo
+    100056: CATRigLArmDigit33
+    100058: CATRigLArmDigit33Gizmo
+    100060: CATRigLArmDigit41
+    100062: CATRigLArmDigit41Gizmo
+    100064: CATRigLArmDigit42
+    100066: CATRigLArmDigit42Gizmo
+    100068: CATRigLArmDigit43
+    100070: CATRigLArmDigit43Gizmo
+    100072: CATRigLArmDigit51
+    100074: CATRigLArmDigit51Gizmo
+    100076: CATRigLArmDigit52
+    100078: CATRigLArmDigit52Gizmo
+    100080: CATRigLArmDigit53
+    100082: CATRigLArmDigit53Gizmo
+    100084: CATRigLArmPalm
+    100086: CATRigLArmPalmGizmo
+    100088: CATRigLLeg1
+    100090: CATRigLLeg2
+    100092: CATRigLLegAnkle
+    100094: CATRigLLegAnkleGizmo
+    100096: CATRigLLegDigit11
+    100098: CATRigLLegDigit11Gizmo
+    100100: CATRigLLegDigit12
+    100102: CATRigLLegDigit12Gizmo
+    100104: CATRigLLegPlatform
+    100106: CATRigLLegUpVectorNode
+    100108: CATRigRArm1
+    100110: CATRigRArm1Gizmo
+    100112: CATRigRArm2
+    100114: CATRigRArm2Gizmo
+    100116: CATRigRArmCollarbone
+    100118: CATRigRArmDigit11
+    100120: CATRigRArmDigit11Gizmo
+    100122: CATRigRArmDigit12
+    100124: CATRigRArmDigit12Gizmo
+    100126: CATRigRArmDigit13
+    100128: CATRigRArmDigit13Gizmo
+    100130: CATRigRArmDigit21
+    100132: CATRigRArmDigit21Gizmo
+    100134: CATRigRArmDigit22
+    100136: CATRigRArmDigit22Gizmo
+    100138: CATRigRArmDigit23
+    100140: CATRigRArmDigit23Gizmo
+    100142: CATRigRArmDigit31
+    100144: CATRigRArmDigit31Gizmo
+    100146: CATRigRArmDigit32
+    100148: CATRigRArmDigit32Gizmo
+    100150: CATRigRArmDigit33
+    100152: CATRigRArmDigit33Gizmo
+    100154: CATRigRArmDigit41
+    100156: CATRigRArmDigit41Gizmo
+    100158: CATRigRArmDigit42
+    100160: CATRigRArmDigit42Gizmo
+    100162: CATRigRArmDigit43
+    100164: CATRigRArmDigit43Gizmo
+    100166: CATRigRArmDigit51
+    100168: CATRigRArmDigit51Gizmo
+    100170: CATRigRArmDigit52
+    100172: CATRigRArmDigit52Gizmo
+    100174: CATRigRArmDigit53
+    100176: CATRigRArmDigit53Gizmo
+    100178: CATRigRArmPalm
+    100180: CATRigRArmPalmGizmo
+    100182: CATRigRLeg1
+    100184: CATRigRLeg2
+    100186: CATRigRLegAnkle
+    100188: CATRigRLegAnkleGizmo
+    100190: CATRigRLegDigit11
+    100192: CATRigRLegDigit11Gizmo
+    100194: CATRigRLegDigit12
+    100196: CATRigRLegDigit12Gizmo
+    100198: CATRigRLegPlatform
+    100200: CATRigRLegUpVectorNode
+    100202: CATRigSpine
+    100204: CATRigSpine1
+    100206: CATRigSpine1Gizmo
+    100208: CATRigSpine2
+    100210: CATRigSpine2Gizmo
+    100212: Character001
+    100214: //RootNode
+    100216: Particle View 001
+    100218: Particle View 001 1
+    100220: Particle View 001 2
+    100222: Particle View 001 3
+    400000: Box001
+    400002: CATRigHub001
+    400004: CATRigHub001Gizmo
+    400006: CATRigHub002
+    400008: CATRigHub002Gizmo
+    400010: CATRigHub003
+    400012: CATRigHub003Gizmo
+    400014: CATRigLArm1
+    400016: CATRigLArm1Gizmo
+    400018: CATRigLArm2
+    400020: CATRigLArm2Gizmo
+    400022: CATRigLArmCollarbone
+    400024: CATRigLArmDigit11
+    400026: CATRigLArmDigit11Gizmo
+    400028: CATRigLArmDigit12
+    400030: CATRigLArmDigit12Gizmo
+    400032: CATRigLArmDigit13
+    400034: CATRigLArmDigit13Gizmo
+    400036: CATRigLArmDigit21
+    400038: CATRigLArmDigit21Gizmo
+    400040: CATRigLArmDigit22
+    400042: CATRigLArmDigit22Gizmo
+    400044: CATRigLArmDigit23
+    400046: CATRigLArmDigit23Gizmo
+    400048: CATRigLArmDigit31
+    400050: CATRigLArmDigit31Gizmo
+    400052: CATRigLArmDigit32
+    400054: CATRigLArmDigit32Gizmo
+    400056: CATRigLArmDigit33
+    400058: CATRigLArmDigit33Gizmo
+    400060: CATRigLArmDigit41
+    400062: CATRigLArmDigit41Gizmo
+    400064: CATRigLArmDigit42
+    400066: CATRigLArmDigit42Gizmo
+    400068: CATRigLArmDigit43
+    400070: CATRigLArmDigit43Gizmo
+    400072: CATRigLArmDigit51
+    400074: CATRigLArmDigit51Gizmo
+    400076: CATRigLArmDigit52
+    400078: CATRigLArmDigit52Gizmo
+    400080: CATRigLArmDigit53
+    400082: CATRigLArmDigit53Gizmo
+    400084: CATRigLArmPalm
+    400086: CATRigLArmPalmGizmo
+    400088: CATRigLLeg1
+    400090: CATRigLLeg2
+    400092: CATRigLLegAnkle
+    400094: CATRigLLegAnkleGizmo
+    400096: CATRigLLegDigit11
+    400098: CATRigLLegDigit11Gizmo
+    400100: CATRigLLegDigit12
+    400102: CATRigLLegDigit12Gizmo
+    400104: CATRigLLegPlatform
+    400106: CATRigLLegUpVectorNode
+    400108: CATRigRArm1
+    400110: CATRigRArm1Gizmo
+    400112: CATRigRArm2
+    400114: CATRigRArm2Gizmo
+    400116: CATRigRArmCollarbone
+    400118: CATRigRArmDigit11
+    400120: CATRigRArmDigit11Gizmo
+    400122: CATRigRArmDigit12
+    400124: CATRigRArmDigit12Gizmo
+    400126: CATRigRArmDigit13
+    400128: CATRigRArmDigit13Gizmo
+    400130: CATRigRArmDigit21
+    400132: CATRigRArmDigit21Gizmo
+    400134: CATRigRArmDigit22
+    400136: CATRigRArmDigit22Gizmo
+    400138: CATRigRArmDigit23
+    400140: CATRigRArmDigit23Gizmo
+    400142: CATRigRArmDigit31
+    400144: CATRigRArmDigit31Gizmo
+    400146: CATRigRArmDigit32
+    400148: CATRigRArmDigit32Gizmo
+    400150: CATRigRArmDigit33
+    400152: CATRigRArmDigit33Gizmo
+    400154: CATRigRArmDigit41
+    400156: CATRigRArmDigit41Gizmo
+    400158: CATRigRArmDigit42
+    400160: CATRigRArmDigit42Gizmo
+    400162: CATRigRArmDigit43
+    400164: CATRigRArmDigit43Gizmo
+    400166: CATRigRArmDigit51
+    400168: CATRigRArmDigit51Gizmo
+    400170: CATRigRArmDigit52
+    400172: CATRigRArmDigit52Gizmo
+    400174: CATRigRArmDigit53
+    400176: CATRigRArmDigit53Gizmo
+    400178: CATRigRArmPalm
+    400180: CATRigRArmPalmGizmo
+    400182: CATRigRLeg1
+    400184: CATRigRLeg2
+    400186: CATRigRLegAnkle
+    400188: CATRigRLegAnkleGizmo
+    400190: CATRigRLegDigit11
+    400192: CATRigRLegDigit11Gizmo
+    400194: CATRigRLegDigit12
+    400196: CATRigRLegDigit12Gizmo
+    400198: CATRigRLegPlatform
+    400200: CATRigRLegUpVectorNode
+    400202: CATRigSpine
+    400204: CATRigSpine1
+    400206: CATRigSpine1Gizmo
+    400208: CATRigSpine2
+    400210: CATRigSpine2Gizmo
+    400212: Character001
+    400214: //RootNode
+    400216: Particle View 001
+    400218: Particle View 001 1
+    400220: Particle View 001 2
+    400222: Particle View 001 3
+    2100000: 01 - Default
+    4300000: Box001
+    7400000: GetHitUp
+    9500000: //RootNode
+    13700000: Box001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: GetHitUp
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

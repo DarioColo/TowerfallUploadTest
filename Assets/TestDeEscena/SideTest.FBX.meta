@@ -1,0 +1,568 @@
+fileFormatVersion: 2
+guid: b0df2faa5f8d790479a7540e5ed742b3
+timeCreated: 1528849265
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arc012
+    100002: Arc013
+    100004: Arc014
+    100006: Arc076
+    100008: Arc077
+    100010: Arc078
+    100012: Arc079
+    100014: Arc081
+    100016: Arc082
+    100018: Arc083
+    100020: Arc084
+    100022: Arc085
+    100024: Arc086
+    100026: Arc087
+    100028: Arc088
+    100030: Arc089
+    100032: Arc090
+    100034: Arc091
+    100036: Arc092
+    100038: Arc093
+    100040: Arc094
+    100042: Arc095
+    100044: Arc096
+    100046: Arc097
+    100048: ArcV005
+    100050: Barandal Esquina002
+    100052: Barandal Esquina003
+    100054: Barandal Esquina004
+    100056: Barandal Esquina005
+    100058: Barandal Esquina006
+    100060: Barandal Esquina007
+    100062: Barandal Esquina008
+    100064: Barandal Esquina009
+    100066: Barandal Esquina010
+    100068: Barandal Esquina011
+    100070: Barandal Esquina012
+    100072: Barandal Esquina013
+    100074: Barandal Esquina014
+    100076: Barandal Esquina015
+    100078: Barandal Esquina016
+    100080: Barandal Esquina017
+    100082: Barandal Esquina034
+    100084: Barandal Esquina035
+    100086: Barandal Esquina036
+    100088: Barandal Esquina037
+    100090: Barandal Esquina038
+    100092: Barandal Esquina039
+    100094: Barandal Esquina040
+    100096: Barandal Esquina041
+    100098: Barandal Esquina042
+    100100: Barandal Esquina043
+    100102: Barandal Esquina044
+    100104: Box032
+    100106: Corner
+    100108: Cylinder032
+    100110: Cylinder037
+    100112: Cylinder038
+    100114: Cylinder040
+    100116: Cylinder041
+    100118: Cylinder042
+    100120: Cylinder043
+    100122: Cylinder044
+    100124: Cylinder045
+    100126: Cylinder046
+    100128: Cylinder047
+    100130: Cylinder056
+    100132: Cylinder057
+    100134: Cylinder085
+    100136: Cylinder086
+    100138: Cylinder087
+    100140: Cylinder088
+    100142: Cylinder089
+    100144: Cylinder090
+    100146: Cylinder091
+    100148: Cylinder092
+    100150: Door003
+    100152: Door005
+    100154: Door006
+    100156: Door007
+    100158: Door008
+    100160: Door009
+    100162: Door010
+    100164: Door011
+    100166: Door012
+    100168: Door013
+    100170: Door014
+    100172: Door015
+    100174: PhysCamera002.Target
+    100176: Plane001
+    100178: Plane002
+    100180: Plane003
+    100182: Plane004
+    100184: Plane005
+    100186: Plane006
+    100188: Plane007
+    100190: Plane008
+    100192: Sarasa2
+    100194: //RootNode
+    400000: Arc012
+    400002: Arc013
+    400004: Arc014
+    400006: Arc076
+    400008: Arc077
+    400010: Arc078
+    400012: Arc079
+    400014: Arc081
+    400016: Arc082
+    400018: Arc083
+    400020: Arc084
+    400022: Arc085
+    400024: Arc086
+    400026: Arc087
+    400028: Arc088
+    400030: Arc089
+    400032: Arc090
+    400034: Arc091
+    400036: Arc092
+    400038: Arc093
+    400040: Arc094
+    400042: Arc095
+    400044: Arc096
+    400046: Arc097
+    400048: ArcV005
+    400050: Barandal Esquina002
+    400052: Barandal Esquina003
+    400054: Barandal Esquina004
+    400056: Barandal Esquina005
+    400058: Barandal Esquina006
+    400060: Barandal Esquina007
+    400062: Barandal Esquina008
+    400064: Barandal Esquina009
+    400066: Barandal Esquina010
+    400068: Barandal Esquina011
+    400070: Barandal Esquina012
+    400072: Barandal Esquina013
+    400074: Barandal Esquina014
+    400076: Barandal Esquina015
+    400078: Barandal Esquina016
+    400080: Barandal Esquina017
+    400082: Barandal Esquina034
+    400084: Barandal Esquina035
+    400086: Barandal Esquina036
+    400088: Barandal Esquina037
+    400090: Barandal Esquina038
+    400092: Barandal Esquina039
+    400094: Barandal Esquina040
+    400096: Barandal Esquina041
+    400098: Barandal Esquina042
+    400100: Barandal Esquina043
+    400102: Barandal Esquina044
+    400104: Box032
+    400106: Corner
+    400108: Cylinder032
+    400110: Cylinder037
+    400112: Cylinder038
+    400114: Cylinder040
+    400116: Cylinder041
+    400118: Cylinder042
+    400120: Cylinder043
+    400122: Cylinder044
+    400124: Cylinder045
+    400126: Cylinder046
+    400128: Cylinder047
+    400130: Cylinder056
+    400132: Cylinder057
+    400134: Cylinder085
+    400136: Cylinder086
+    400138: Cylinder087
+    400140: Cylinder088
+    400142: Cylinder089
+    400144: Cylinder090
+    400146: Cylinder091
+    400148: Cylinder092
+    400150: Door003
+    400152: Door005
+    400154: Door006
+    400156: Door007
+    400158: Door008
+    400160: Door009
+    400162: Door010
+    400164: Door011
+    400166: Door012
+    400168: Door013
+    400170: Door014
+    400172: Door015
+    400174: PhysCamera002.Target
+    400176: Plane001
+    400178: Plane002
+    400180: Plane003
+    400182: Plane004
+    400184: Plane005
+    400186: Plane006
+    400188: Plane007
+    400190: Plane008
+    400192: Sarasa2
+    400194: //RootNode
+    2100000: No Name
+    2300000: Arc012
+    2300002: Arc013
+    2300004: Arc014
+    2300006: Arc076
+    2300008: Arc077
+    2300010: Arc078
+    2300012: Arc079
+    2300014: Arc081
+    2300016: Arc082
+    2300018: Arc083
+    2300020: Arc084
+    2300022: Arc085
+    2300024: Arc086
+    2300026: Arc087
+    2300028: Arc088
+    2300030: Arc089
+    2300032: Arc090
+    2300034: Arc091
+    2300036: Arc092
+    2300038: Arc093
+    2300040: Arc094
+    2300042: Arc095
+    2300044: Arc096
+    2300046: Arc097
+    2300048: Barandal Esquina002
+    2300050: Barandal Esquina003
+    2300052: Barandal Esquina004
+    2300054: Barandal Esquina005
+    2300056: Barandal Esquina006
+    2300058: Barandal Esquina007
+    2300060: Barandal Esquina008
+    2300062: Barandal Esquina009
+    2300064: Barandal Esquina010
+    2300066: Barandal Esquina011
+    2300068: Barandal Esquina012
+    2300070: Barandal Esquina013
+    2300072: Barandal Esquina014
+    2300074: Barandal Esquina015
+    2300076: Barandal Esquina016
+    2300078: Barandal Esquina017
+    2300080: Barandal Esquina034
+    2300082: Barandal Esquina035
+    2300084: Barandal Esquina036
+    2300086: Barandal Esquina037
+    2300088: Barandal Esquina038
+    2300090: Barandal Esquina039
+    2300092: Barandal Esquina040
+    2300094: Barandal Esquina041
+    2300096: Barandal Esquina042
+    2300098: Barandal Esquina043
+    2300100: Barandal Esquina044
+    2300102: Box032
+    2300104: Cylinder032
+    2300106: Cylinder037
+    2300108: Cylinder038
+    2300110: Cylinder040
+    2300112: Cylinder041
+    2300114: Cylinder042
+    2300116: Cylinder043
+    2300118: Cylinder044
+    2300120: Cylinder045
+    2300122: Cylinder046
+    2300124: Cylinder047
+    2300126: Cylinder056
+    2300128: Cylinder057
+    2300130: Cylinder085
+    2300132: Cylinder086
+    2300134: Cylinder087
+    2300136: Cylinder088
+    2300138: Cylinder089
+    2300140: Cylinder090
+    2300142: Cylinder091
+    2300144: Cylinder092
+    2300146: Door003
+    2300148: Door005
+    2300150: Door006
+    2300152: Door007
+    2300154: Door008
+    2300156: Door009
+    2300158: Door010
+    2300160: Door011
+    2300162: Door012
+    2300164: Door013
+    2300166: Door014
+    2300168: Door015
+    2300170: Plane001
+    2300172: Plane002
+    2300174: Plane003
+    2300176: Plane004
+    2300178: Plane005
+    2300180: Plane006
+    2300182: Plane007
+    2300184: Plane008
+    2300186: Sarasa2
+    3300000: Arc012
+    3300002: Arc013
+    3300004: Arc014
+    3300006: Arc076
+    3300008: Arc077
+    3300010: Arc078
+    3300012: Arc079
+    3300014: Arc081
+    3300016: Arc082
+    3300018: Arc083
+    3300020: Arc084
+    3300022: Arc085
+    3300024: Arc086
+    3300026: Arc087
+    3300028: Arc088
+    3300030: Arc089
+    3300032: Arc090
+    3300034: Arc091
+    3300036: Arc092
+    3300038: Arc093
+    3300040: Arc094
+    3300042: Arc095
+    3300044: Arc096
+    3300046: Arc097
+    3300048: Barandal Esquina002
+    3300050: Barandal Esquina003
+    3300052: Barandal Esquina004
+    3300054: Barandal Esquina005
+    3300056: Barandal Esquina006
+    3300058: Barandal Esquina007
+    3300060: Barandal Esquina008
+    3300062: Barandal Esquina009
+    3300064: Barandal Esquina010
+    3300066: Barandal Esquina011
+    3300068: Barandal Esquina012
+    3300070: Barandal Esquina013
+    3300072: Barandal Esquina014
+    3300074: Barandal Esquina015
+    3300076: Barandal Esquina016
+    3300078: Barandal Esquina017
+    3300080: Barandal Esquina034
+    3300082: Barandal Esquina035
+    3300084: Barandal Esquina036
+    3300086: Barandal Esquina037
+    3300088: Barandal Esquina038
+    3300090: Barandal Esquina039
+    3300092: Barandal Esquina040
+    3300094: Barandal Esquina041
+    3300096: Barandal Esquina042
+    3300098: Barandal Esquina043
+    3300100: Barandal Esquina044
+    3300102: Box032
+    3300104: Cylinder032
+    3300106: Cylinder037
+    3300108: Cylinder038
+    3300110: Cylinder040
+    3300112: Cylinder041
+    3300114: Cylinder042
+    3300116: Cylinder043
+    3300118: Cylinder044
+    3300120: Cylinder045
+    3300122: Cylinder046
+    3300124: Cylinder047
+    3300126: Cylinder056
+    3300128: Cylinder057
+    3300130: Cylinder085
+    3300132: Cylinder086
+    3300134: Cylinder087
+    3300136: Cylinder088
+    3300138: Cylinder089
+    3300140: Cylinder090
+    3300142: Cylinder091
+    3300144: Cylinder092
+    3300146: Door003
+    3300148: Door005
+    3300150: Door006
+    3300152: Door007
+    3300154: Door008
+    3300156: Door009
+    3300158: Door010
+    3300160: Door011
+    3300162: Door012
+    3300164: Door013
+    3300166: Door014
+    3300168: Door015
+    3300170: Plane001
+    3300172: Plane002
+    3300174: Plane003
+    3300176: Plane004
+    3300178: Plane005
+    3300180: Plane006
+    3300182: Plane007
+    3300184: Plane008
+    3300186: Sarasa2
+    4300000: Box032
+    4300002: Door003
+    4300004: Cylinder032
+    4300006: Cylinder037
+    4300008: Sarasa2
+    4300010: Plane001
+    4300012: Cylinder038
+    4300014: Door005
+    4300016: Door006
+    4300018: Cylinder041
+    4300020: Arc012
+    4300022: Arc013
+    4300024: Arc014
+    4300026: Cylinder040
+    4300028: Door007
+    4300030: Cylinder042
+    4300032: Door008
+    4300034: Cylinder043
+    4300036: Door009
+    4300038: Cylinder044
+    4300040: Door010
+    4300042: Cylinder045
+    4300044: Door011
+    4300046: Cylinder046
+    4300048: Door012
+    4300050: Cylinder047
+    4300052: Plane002
+    4300054: Plane003
+    4300056: Plane004
+    4300058: Plane005
+    4300060: Plane006
+    4300062: Plane007
+    4300064: Plane008
+    4300066: Door013
+    4300068: Cylinder056
+    4300070: Door014
+    4300072: Cylinder057
+    4300074: Door015
+    4300076: Barandal Esquina002
+    4300078: Barandal Esquina003
+    4300080: Barandal Esquina004
+    4300082: Barandal Esquina005
+    4300084: Barandal Esquina006
+    4300086: Barandal Esquina007
+    4300088: Barandal Esquina008
+    4300090: Barandal Esquina009
+    4300092: Barandal Esquina010
+    4300094: Barandal Esquina011
+    4300096: Barandal Esquina012
+    4300098: Barandal Esquina013
+    4300100: Barandal Esquina014
+    4300102: Barandal Esquina015
+    4300104: Barandal Esquina016
+    4300106: Barandal Esquina017
+    4300108: Arc076
+    4300110: Arc077
+    4300112: Arc078
+    4300114: Arc079
+    4300116: Arc081
+    4300118: Arc082
+    4300120: Arc083
+    4300122: Arc084
+    4300124: Arc085
+    4300126: Arc086
+    4300128: Arc087
+    4300130: Arc088
+    4300132: Arc089
+    4300134: Arc090
+    4300136: Arc091
+    4300138: Arc092
+    4300140: Arc093
+    4300142: Arc094
+    4300144: Arc095
+    4300146: Arc096
+    4300148: Arc097
+    4300150: Barandal Esquina034
+    4300152: Barandal Esquina035
+    4300154: Barandal Esquina036
+    4300156: Barandal Esquina037
+    4300158: Barandal Esquina038
+    4300160: Barandal Esquina039
+    4300162: Barandal Esquina040
+    4300164: Barandal Esquina041
+    4300166: Barandal Esquina042
+    4300168: Barandal Esquina043
+    4300170: Barandal Esquina044
+    4300172: Cylinder085
+    4300174: Cylinder086
+    4300176: Cylinder087
+    4300178: Cylinder088
+    4300180: Cylinder089
+    4300182: Cylinder090
+    4300184: Cylinder091
+    4300186: Cylinder092
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
